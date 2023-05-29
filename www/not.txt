@@ -1,0 +1,2 @@
+yaptigim projeyi cok basit ama cv2 kutuphanesi yukleyemedim cok sikintilar kasilastirdim bunun icin 
+cv2 kutuphanesi kullanmadan yapmaya calsitim 
